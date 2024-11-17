@@ -3,4 +3,4 @@ Implementing different deep learning models using PyTorch and following [Zero to
 
 Unfortunately, I did not document and summarize the book content for those notebooks:
 - nn_classification.ipynb
-- linear_regression.ipynb
+- linear_regression_model.ipynb
